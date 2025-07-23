@@ -16,7 +16,7 @@ I'm currently architecting and building **[VOD-Net](https://github.com/Nishit-Sh
 | Languages          | Frameworks & Libraries | Databases & Services | Developer Tools       |
 | ------------------ | ---------------------- | -------------------- | --------------------- |
 | TypeScript         | React / Next.js        | Firebase / Firestore | Git / GitHub          |
-| JavaScript         | Node.js                | PostgreSQL           | Docker / Kubernetes   |
+| JavaScript         | Node.js                | PostgreSQL           | Docker                |
 | Python             | Electron               |                      | Vercel                |
 | Java / C++         | PyTorch / OpenCV       |                      |                       |
 
