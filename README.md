@@ -5,19 +5,18 @@
 
 ---
 
-High-velocity Software Engineer specializing in full-stack development and AI-driven applications. Proven ability to architect, build, and ship production-grade tools at exceptional speed, delivering a full-stack client management system and an intelligent OCR processor in a matter of days. Driven by a relentless focus on solving complex problems and a commitment to building the future of human-computer interaction.
+Freelance full-stack developer and SWE intern building production-grade web experiences for travel and retail. I ship with Next.js, Tailwind, and modern data layers to take projects from design systems to deployment.
 
-### 🚀 What I'm Currently Building
+### 🚀 What I'm Working On
 
-I'm currently architecting and building **[VOD-Net](https://github.com/Nishit-Sharma/valorant-vod-analyzer)**, a large-scale data analysis engine to process thousands of hours of gameplay video and generate data-driven strategic recommendations for gamers. This project is a hands-on exploration of core challenges in contextual AI, distributed systems, and model-based event extraction.
+- **Citius Holidays — SWE Intern.** Redesigned the corporate travel/MICE website in Next.js 16 with Tailwind 4, Motion, and Sanity CMS; added contact automation, CMS-driven sections, and analytics. Live preview: [citiusholidays.com](https://www.citiusholidays.com/)
+- **Pehnava Vibe (freelance).** E-commerce jewelry & fashion store on Next.js 16 + TypeScript with Prisma/PostgreSQL, NextAuth, and PayPal checkout. Includes an admin dashboard for catalog and orders.
+- **Stevens Blueprint — Freshman Rep.** Selected to shadow the Executive Board and lead internal development initiatives for a student-run product studio.
 
 ### 💻 My Tech Stack
 
-| Languages          | Frameworks & Libraries | Databases & Services | Developer Tools       |
-| ------------------ | ---------------------- | -------------------- | --------------------- |
-| JavaScript         | React / Next.js        | Firebase / Firestore | Git / GitHub          |
-| Python             | Node.js                | PostgreSQL           | Docker                |
-| Java               | Electron               |                      | Vercel                |
-| C++                | PyTorch / OpenCV       |                      |                       |
+| Languages                   | Frameworks & Libraries                   | Databases & Services               | Developer Tools            |
+| --------------------------- | ---------------------------------------- | ---------------------------------- | -------------------------- |
+| TypeScript / JavaScript / Python / Java / C++ | Next.js (App Router) / React / Tailwind CSS / Motion / React Hook Form / NextAuth | PostgreSQL (Prisma / Drizzle) / Sanity CMS / Resend | Bun / Vercel / Git & GitHub / Biome & ESLint |
 
 ---
