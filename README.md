@@ -1,22 +1,32 @@
-# Nishit Sharma | Software Engineer
+# Nishit Sharma
 
-<a href="https://www.linkedin.com/in/nishit-sharma13/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nishit.sharma000@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+CS student at Stevens Institute of Technology building full-stack software for real users.
 
----
+I’ve worked on production web platforms, internal CRM tools, e-commerce/admin systems, and technical education programs. Most of my current work is around practical software for small teams: tools that help people manage operations, content, payments, customers, and workflows without needing to touch code.
 
-Freelance full-stack developer and SWE intern building production-grade web experiences for travel and retail. I ship with Next.js, Tailwind, and modern data layers to take projects from design systems to deployment.
+## Current Work
 
-### 🚀 What I'm Working On
+- **Citius Holidays** — building Citius Connect, a Convex-backed CRM and staff portal for travel operations across sales, contracting, operations, ticketing, finance, and leadership.
+- **Royals & Radiant** — built an e-commerce/admin platform for a jewelry and fashion brand with product management, categories, image uploads, Stripe checkout, and order workflows.
+- **Stevens Blueprint** — VP of Operations and Tech Team Lead, creating backend/API workshops that help students prepare for nonprofit project teams.
+- **Java Juniors** — taught beginner Java programming at Parsippany Library.
 
-- **Citius Holidays — SWE Intern.** Redesigned the corporate travel/MICE website in Next.js with Tailwind, Motion, and Sanity CMS; added contact automation, CMS-driven sections, and analytics. Live preview: [citiusholidays.com](https://www.citiusholidays.com/)
-- **Pehnava Vibe (freelance).** E-commerce jewelry & fashion store on Next.js 16 + TypeScript with Prisma/PostgreSQL, NextAuth, and PayPal checkout. Includes an admin dashboard for catalog and orders.
-- **Stevens Blueprint — Freshman Rep.** Selected to shadow the Executive Board and lead internal development initiatives for a student-run product studio.
+## Main Tools
 
-### 💻 My Tech Stack
+**Languages:** TypeScript, JavaScript, Python, Java, C++, HTML/CSS  
+**Frontend:** React, Next.js, Tailwind CSS, Motion  
+**Backend/Data:** Convex, Prisma, PostgreSQL, BetterAuth  
+**Platforms:** Vercel, Sanity CMS, Vercel Blob, GitHub  
+**Payments/Email:** Stripe, Razorpay, Resend  
+**Workflow:** Git, Bun, Biome, Cursor, Codex, Claude/LLM-assisted development
 
-| Languages                   | Frameworks & Libraries                   | Databases & Services               | Developer Tools            |
-| --------------------------- | ---------------------------------------- | ---------------------------------- | -------------------------- |
-| TypeScript / JavaScript / Python / Java / C++ | Next.js (App Router) / React / Tailwind CSS / Motion / React Hook Form / NextAuth | PostgreSQL (Prisma / Drizzle) / Sanity CMS / Resend | Bun / Vercel / Git & GitHub / Biome & ESLint |
+## Featured
 
----
+- **Citius Connect** — travel CRM and operations portal
+- **Royals & Radiant** — e-commerce and admin platform
+- **Blueprint Tech Team** — backend/API workshop curriculum
+
+## Links
+
+- Portfolio: https://nishitsharma.vercel.app
+- LinkedIn: https://www.linkedin.com/in/nishit-sharma13
