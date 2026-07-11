@@ -22,7 +22,6 @@ I’ve worked on production web platforms, internal CRM tools, e-commerce/admin 
 ## Featured
 
 - **Citius Connect** — travel CRM and operations portal
-- **Royals & Radiant** — e-commerce and admin platform
 - **Blueprint Tech Team** — backend/API workshop curriculum
 
 ## Links
