@@ -7,7 +7,6 @@ I’ve worked on production web platforms, internal CRM tools, e-commerce/admin 
 ## Current Work
 
 - **Citius Holidays** — building Citius Connect, a Convex-backed CRM and staff portal for travel operations across sales, contracting, operations, ticketing, finance, and leadership.
-- **Royals & Radiant** — built an e-commerce/admin platform for a jewelry and fashion brand with product management, categories, image uploads, Stripe checkout, and order workflows.
 - **Stevens Blueprint** — VP of Operations and Tech Team Lead, creating backend/API workshops that help students prepare for nonprofit project teams.
 - **Java Juniors** — taught beginner Java programming at Parsippany Library.
 
